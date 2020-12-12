@@ -6,3 +6,5 @@ This is a blog app using the following:
 * DynamoDB
 
 Based on a presentation by [Nader Dabit](https://github.com/dabit3).
+
+https://d35zqh9g2iauyq.cloudfront.net
